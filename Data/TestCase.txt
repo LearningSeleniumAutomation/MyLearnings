@@ -1,0 +1,1 @@
+tc (|api name=login::desc=Login as an active directory user|) (|val expected_result=pass|) (|parm Username=sharee::Password=novell::user_first_name=::user_last_name=sharee|)
